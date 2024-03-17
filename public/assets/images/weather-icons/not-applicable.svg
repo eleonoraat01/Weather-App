@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="256" height="256" viewBox="0 0 256 256" xml:space="preserve">
+
+<defs>
+</defs>
+<g style="stroke: none; stroke-width: 0; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 10; fill: none; fill-rule: nonzero; opacity: 1;" transform="translate(-7.72 -19.08)">
+  <path d="M32.94,84.48c-.09-1.37-.15-2.74-.15-4.13A61.28,61.28,0,0,1,149.48,54.19,45.18,45.18,0,0,1,220.29,84a36.65,36.65,0,0,1-9.69,72H44.38A36.65,36.65,0,0,1,32.94,84.48Z" style="fill: rgb(98,195,247);" />
+  <path d="M76.28,235.15v-33.6h.26l23,33.6h7.34v-46h-7.6v33.15H99L76.29,189.19H68.75v46h7.53Zm43.19,6.44,22.34-59.22H135.5l-22.4,59.22Zm32.12-6.44,4.18-11.52H175l4.18,11.52h8.05l-17.57-46h-8.56l-17.57,46Zm21.18-17.7H158l7.27-20.15h.26Z" style="fill: rgb(67,144,179);" />
+</g>
+</svg>

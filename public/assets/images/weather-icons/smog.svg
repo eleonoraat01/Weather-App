@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="256" height="256" viewBox="0 0 256 256" xml:space="preserve">
+
+<defs>
+</defs>
+<g style="stroke: none; stroke-width: 0; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 10; fill: none; fill-rule: nonzero; opacity: 1;" transform="translate(-6.78 -19.08)">
+  <path d="M32.94,84.48c-.09-1.37-.15-2.74-.15-4.13A61.28,61.28,0,0,1,149.48,54.19,45.18,45.18,0,0,1,220.29,84a36.65,36.65,0,0,1-9.69,72H44.38A36.65,36.65,0,0,1,32.94,84.48Z" style="fill: rgb(98,195,247);" />
+  <path d="M194.67,152.06m45.46,30.31H112.85a9.09,9.09,0,1,0,0,18.18H240.13a9.09,9.09,0,1,0,0-18.18Zm-24.24,36.37H173.46a9.09,9.09,0,0,0,0,18.18h42.43a9.09,9.09,0,0,0,0-18.18Zm-72.74,0H15.87a9.09,9.09,0,1,0,0,18.18H143.15a9.09,9.09,0,1,0,0-18.18ZM91.63,191.46a9.06,9.06,0,0,0-9.09-9.09H43.14a9.09,9.09,0,1,0,0,18.18h39.4A9.06,9.06,0,0,0,91.63,191.46Z" style="fill: rgb(67,144,179);" />
+</g>
+</svg>
